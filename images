@@ -1,0 +1,21 @@
+    <section id="gallery" class="gallery">
+
+        <h2>Our Plumbing Projects</h2>
+
+        <div class="gallery-container">
+
+            <img src="images/pic.jpg" alt="Project">
+            <img src="images/pic1.jpg" alt="Project">
+            <img src="images/pic2.jpg" alt="Project">
+            <img src="images/pic3.jpg" alt="Project">
+            <img src="images/pic4.jpg" alt="Project">
+            <img src="images/pic5.jpg" alt="Project">
+            <img src="images/pic6.jpg" alt="Project">
+            <img src="images/pic7.jpg" alt="Project">
+            <img src="images/pic8.jpg" alt="Project">
+            <img src="images/pic9.jpg" alt="Project">
+            <img src="images/pic10.jpg" alt="Project">
+
+        </div>
+
+    </section>
